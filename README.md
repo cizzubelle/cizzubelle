@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome!
+
+This GitHub account is my personal account, mainly used for University Projects for the time being.
 
 <!--
 **cizzubelle/cizzubelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
